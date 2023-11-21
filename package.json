@@ -55,7 +55,7 @@
     "mocha": "^1.21.3",
     "uglify-js": "^2.4.15",
     "yuidoc-bootstrap-theme": "^1.0.2",
-    "yuidocjs": "^0.3.50"
+    "yuidocjs": "^0.10.0"
   },
   "testling": {
     "files": "test/*.js",
